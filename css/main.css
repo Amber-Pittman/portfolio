@@ -83,7 +83,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #cf1767;
+  color: #00ccff;
   transition: all 0.3s ease-in-out;
 }
 
@@ -1477,7 +1477,7 @@ input::-moz-focus-inner {
   display: block;
   width: 150px;
   height: 2px;
-  background-color: #cf1767;
+  background-color: #00ccff;
   position: absolute;
   top: 0;
   left: 0;
@@ -1970,7 +1970,7 @@ input::-moz-focus-inner {
   font-size: 2.4rem;
   font-weight: 500;
   line-height: 1.333;
-  color: #cf1767;
+  color: #00ccff;
   margin-top: 0;
 }
 
@@ -1997,9 +1997,11 @@ input::-moz-focus-inner {
 
 .intro-scroll a {
   display: inline-block;
-  color: rgba(255, 255, 255, 0.3);
+  color: #00ccff;
   position: relative;
   padding-right: 8.8rem;
+  font-size: 1.2em;
+  font-weight: 500;
 }
 
 .intro-scroll a::after {
@@ -2009,7 +2011,7 @@ input::-moz-focus-inner {
   right: 0;
   height: 1px;
   width: 72px;
-  background-color: #cf1767;
+  background-color: #00ccff;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2578,7 +2580,7 @@ input::-moz-focus-inner {
   font-weight: 300;
   font-size: 8rem;
   line-height: 1;
-  color: #cf1767;
+  color: #00ccff;
 }
 
 /* ------------------------------------------------------------------- 
@@ -3327,7 +3329,7 @@ input::-moz-focus-inner {
 .contact-infos a:hover,
 .contact-infos a:focus,
 .contact-infos a:active {
-  color: #cf1767;
+  color: #00ccff;
 }
 
 .contact-social ul {
