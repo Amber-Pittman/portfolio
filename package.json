@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Ongoing Portfolio as I gain new skills. Theme is Epitome by StyleShout. Customizations by me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amber-Pittman/portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Amber-Pittman/portfolio/issues"
+  },
+  "homepage": "https://github.com/Amber-Pittman/portfolio#readme"
+}
