@@ -1,11 +1,4 @@
 {
   "cleanUrls": true,
-  "trailingSlash": false,
-  "redirects": [
-    {
-      "source": "*.amberpittman.com", 
-      "destination": "amberpittman.com", 
-      "permanent": false
-    }
-  ]
+  "trailingSlash": false
 }
