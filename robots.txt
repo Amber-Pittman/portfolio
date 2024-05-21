@@ -1,3 +1,7 @@
 User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
 
 Sitemap: https://amberpittman.com/sitemap.xml
